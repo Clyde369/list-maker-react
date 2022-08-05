@@ -1,3 +1,15 @@
+# Use of this project:
+This is a small project dedicated to my portfolio linked at: https://clyde-portfolio.netlify.app/
+If you have any feedback let me know on: https://clyde-portfolio.netlify.app/contact
+
+this allows you to make a user and make a list 
+
+Will be updated as per regular as possible 
+
+~Clyde
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
