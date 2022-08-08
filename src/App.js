@@ -11,6 +11,7 @@ function App() {
   }
   return (
     <div className="App">
+      <h1>Simple List Maker with age</h1>
       <AddUser onAddUser={addUserHandler} />
       <UsersList 
         users={usersList}
